@@ -1,2 +1,2 @@
 # inlinx
-Linux for 1C
+Bots and Platforms
